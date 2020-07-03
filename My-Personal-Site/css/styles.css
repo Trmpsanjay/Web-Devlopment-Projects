@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 5.625em;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  color: #11993E;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  /* 100px top down and 0px left right */
+  margin: 100px 0;
+}
+
+.bottom-container {
+  /* background-color: green;
+  width: 200px;
+  height: 200px; */
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.tag {
+  font-weight: normal;
+  height: 2px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.java {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.front-end {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  /* border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%; */
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.introduction {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #3D94F6);
+  background-image: -moz-linear-gradient(top, #11CDD4, #3D94F6);
+  background-image: -ms-linear-gradient(top, #11CDD4, #3D94F6);
+  background-image: -o-linear-gradient(top, #11CDD4, #3D94F6);
+  background-image: linear-gradient(to bottom, #11CDD4, #3D94F6);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #1E62D0;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+/* made from cssbuttoncreator.com */
+.btn:hover {
+  border: solid #99C624 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 5px;
+  padding: 50px 0 20px;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact-description{
+  margin-bottom: 50px;
+}
