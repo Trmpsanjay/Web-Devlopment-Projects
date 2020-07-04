@@ -9,7 +9,7 @@ if(random1>random2){
   document.querySelector("h1").innerHTML="Player 1 Win";
 }
 else if(random1===random2){
-  document.queryselector("h1").innerHTML="Match Tie";
+  document.querySelector("h1").innerHTML="Match Tie";
 }
 else{
   document.querySelector("h1").innerHTML="Player 2 Win";
