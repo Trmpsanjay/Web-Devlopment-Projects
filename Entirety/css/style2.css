@@ -1,0 +1,75 @@
+
+body{
+  background-color: #bbb;
+}
+
+.main-right-part{
+background-image: url('file:///H:/InternShip/Final/images/test.png');
+height: 800px;
+width: auto;
+}
+.brand-name{
+  font-weight: bold;
+  font-family: "Montserrat";
+  font-size: 20px;
+}
+
+.big-heading{
+  position: absolute;
+  left: 10%;
+  padding-top: 30%;
+   margin-top: 50px
+}
+.sub-heading{
+  color: powderblue;
+}
+
+.image-left{
+  background-image: url('file:///H:/InternShip/Final/images/test2.png');
+  background-repeat: no-repeat;
+  height: 200px;
+  width: auto;
+  margin: 0;
+
+}
+.search-bar{
+   margin: 50px auto;
+}
+.search-bar-input{
+  border-radius: 30px;
+  border-color: #fff;
+  width: 280px;
+
+}
+
+.features-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.about-us {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+  /* padding: 7%; */
+}
+
+.why-us {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+  /* padding: 7%; */
+}
+.job-categories {
+  padding: 100px;
+  text-align: center;
+}
+.job-column {
+  width: 30%;
+  padding: 3% 2%;
+}
+.job-bg:hover{
+  background-color: blue;
+}
