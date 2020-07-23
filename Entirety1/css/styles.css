@@ -1,0 +1,247 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+p, h1 {
+  line-height: 2;
+}
+
+.main-right-part {
+  background-image: url('https://raw.githubusercontent.com/Trmpsanjay/Web-Devlopment-Projects/master/Entirety/images/test.png');
+  height: 800px;
+  width: auto;
+  /* background-color: powderblue; */
+}
+
+.brand-name {
+  font-weight: bold;
+  font-family: "Montserrat";
+  font-size: 20px;
+}
+
+.big-heading {
+  position: absolute;
+  left: 10%;
+  padding-top: 30%;
+  margin-top: 50px
+}
+
+.sub-heading {
+  color: powderblue;
+}
+
+.image-left {
+  background-image: url('https://github.com/Trmpsanjay/Web-Devlopment-Projects/blob/master/Entirety/images/test2.png?raw=true');
+  background-repeat: no-repeat;
+  height: 200px;
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.signin-btn {
+  box-shadow:inset 0px 0px 15px 3px #23395e;
+	background:linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+	background-color:#2e466e;
+	border-radius:17px;
+	border:1px solid #1f2f47;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.signin-btn : hover{
+  background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.nav-padding{
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #fff;
+
+}
+.nav-link{
+  color: #fff;
+}
+.search-bar {
+  margin: 50px auto;
+}
+
+.search-bar-input {
+  border-radius: 30px;
+  border-color: #fff;
+  width: 280px;
+}
+
+.features-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-top: 80px;
+}
+
+.about-us {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+  /* padding: 7%; */
+}
+
+.why-us {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+  /* margin-top: 50px; */
+  /* padding: 7%; */
+}
+
+.job-categories {
+  padding: 100px;
+  text-align: center;
+}
+
+.job-column {
+  width: 30%;
+  padding: 3% 2%;
+}
+
+.job-bg:hover {
+  background-color: blue;
+}
+
+.brand-joinings {
+  padding: 30px;
+  margin: 50px;
+}
+
+brand-image {
+  margin-left: 30px;
+}
+
+.brand-image-joined {
+  height: 60%;
+  width: auto;
+  padding: 50px;
+}
+
+.brand-note {
+  line-height: 1.5;
+}
+
+.join-us {
+  background-image: url('https://github.com/Trmpsanjay/Web-Devlopment-Projects/blob/master/Entirety/images/13.png?raw=true');
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
+  padding: 1% 1%;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  color: #fff;
+}
+
+.card-text-own {
+  text-align: center;
+  color: red;
+}
+
+.card-image-own {
+  border-radius: 50%;
+}
+
+#footer {
+  padding: 3% 5%;
+}
+
+.lower-image {
+  height: 100%;
+  width: 100%;
+  background-image: url('https://github.com/Trmpsanjay/Web-Devlopment-Projects/blob/master/Entirety/images/141.png?raw=true');
+}
+
+.job-categories-details {
+  text-align: center;
+  color: #fff;
+}
+
+.testimonial-image {
+  border-radius: 25%
+}
+
+.testimonial-data {
+  text-align: center;
+  color: #000;
+}
+
+.rating {
+  color: #D17009;
+}
+
+.testimonial-text {
+  color: #000;
+  padding-bottom: 20px;
+}
+
+.test1 {
+  padding-top: 150px;
+  background-image: url('    https://github.com/Trmpsanjay/Web-Devlopment-Projects/blob/master/Entirety/images/14.png?raw=true');
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.test2 {
+  padding: 500px;
+  padding-bottom: 0;
+  background-image: url('https://github.com/Trmpsanjay/Web-Devlopment-Projects/blob/master/Entirety/images/15.png?raw=true');
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 1
+}
+
+.footer-subscribe {
+  padding-top: 100px;
+}
+
+.footer-subscribe {
+  padding-left: 20%;
+  padding-bottom: 5%;
+  color: #fff;
+}
+
+.categories-heading {
+  padding-bottom: 3%;
+  padding-left: 10%;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  line-height: 2;
+}
+
+.link-text {
+  color: #fff;
+}
+
+ul {
+  color: #fff;
+}
+
+.social-media {
+  padding: 10px;
+  text-align: center;
+  color: blue;
+}
+
+.footer-data {}
