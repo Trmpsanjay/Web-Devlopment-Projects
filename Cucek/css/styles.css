@@ -1,0 +1,12 @@
+body {
+  margin: 50px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  background-color: #f4f9f3;
+  border: 2px solid #ff414d;
+}
+.Heading{
+  font-size: 30px;
+  color: #679b9b;
+}
