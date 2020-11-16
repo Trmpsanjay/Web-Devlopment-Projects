@@ -1,23 +1,28 @@
-body{
-    background-color: aquamarine;
-     /* position: relative; */
-}
-.main-division{
-  
-    text-align: center;
-}
-form{
-    width: 75%;
-   margin: auto;
-}
-.card-header{
-    background-color: red;
-    color: #fff;
-}
-.main-content{
+body {
     width: 100%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    height: 100vh;
+  /* position: relative; */
+  background-image: url("https://image.freepik.com/free-vector/stylish-hearts-bubble-romantic-love-background_1017-23249.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.main-division {
+  text-align: center;
+}
+form {
+  width: 75%;
+  margin: auto;
+}
+.card-header {
+  background-color: red;
+  color: #fff;
+}
+.main-content {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
